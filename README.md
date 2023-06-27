@@ -1,2 +1,2 @@
 # build-a-formik-form
-<p>build anf validate a form with formik</p>
+<p>build and validate a form with formik</p>
